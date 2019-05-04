@@ -294,7 +294,6 @@ def plot_balance_sheet(year, assets, liabilities, equities, year2, assets2, liab
                  bottom=all_amounts)
 
     plt.legend((p1[0], p2[0]), (year, year2))
-
     plt.show()
 
 
